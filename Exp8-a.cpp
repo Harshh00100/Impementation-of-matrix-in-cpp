@@ -1,3 +1,6 @@
+//Harsh kumar
+//24070123146
+//B3
 #include <iostream>
 using namespace std;
 
@@ -23,3 +26,20 @@ int main() {
         cout << endl;
     }
 }
+/* OUTPUT:
+Enter the number of rows: 
+2
+Enter the number of columns:
+3
+Enter the elements of the matrix:
+Element  [0][0]: 2
+Element  [0][1]: 43
+Element  [0][2]: 5
+Element  [1][0]: 6
+Element  [1][1]: 7
+Element  [1][2]: 4
+
+The matrix is:
+2  43  5
+6  7  4
+*/
