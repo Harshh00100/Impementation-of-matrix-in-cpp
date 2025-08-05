@@ -1,3 +1,6 @@
+//Harsh kumar
+//24070123146
+//B3
 #include <iostream>
 using namespace std;
 
@@ -62,4 +65,5 @@ Matrix:
 Main Diagonal Sum (a): 7
 Secondary Diagonal Sum (b): 5
 Total Diagonal Sum (adjusted): 12
+
 */
